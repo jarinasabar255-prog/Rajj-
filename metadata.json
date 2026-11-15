@@ -1,0 +1,6 @@
+{
+  "name": "Finorix Pro",
+  "description": "2-Candle Advanced Technology Quotex OTC 1-minute live trade signal analysis app with a Center Orb UI powered by Gemini AI Logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

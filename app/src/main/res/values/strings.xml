@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Finorix Pro</string>
+    <string name="brand_subtitle">2-Candle OTC Live Engine • Gemini 3.8</string>
+    <string name="nav_orb">Signal Orb</string>
+    <string name="nav_ledger">No-Repaint</string>
+    <string name="nav_engine">Bot Engine</string>
+    <string name="no_repaint_badge">NO-REPAINT LOCKED</string>
+    <string name="tap_orb_scan">TAP ORB FOR 1M SIGNAL</string>
+    <string name="scanning_gemini">GEMINI 3.8 LIVE SCAN…</string>
+    <string name="signal_buy">BUY • CALL 1M</string>
+    <string name="signal_sell">SELL • PUT 1M</string>
+    <string name="signal_standby">STANDBY • WAIT</string>
+    <string name="upload_chart_desc">Analyze Quotex OTC chart screenshot</string>
+    <string name="ask_gemini_hint">Ask Gemini 3.8 Live about this 2-candle setup…</string>
+    <string name="disclaimer_text">Signals are algorithmic + Gemini 3.8 analytical insights for OTC simulation &amp; education. Trade responsibly.</string>
+</resources>
